@@ -1,8 +1,6 @@
 💫 About Me:
-☠️ About Me
-
 🔴 Offensive Security | Penetration Testing | Red Team Mindset
-🎓 BCA Graduate | Future MCA (Cyber Security)
+🎓 BCA Graduate |  MCA (Cloud Computing)
 ⚔️ Learning by breaking, understanding by exploiting
 
 🔥 I’m currently grinding on
@@ -57,12 +55,8 @@ Core Java / Advanced Java concepts
 
 Cybersecurity roadmap from zero to offensive security
 
-🌐 Socials:
-Discord LinkedIn X email
 
-💻 Tech Stack:
-C C++ Java HTML5 Python MySQL Git
 
-📊 GitHub Stats:
+
 
 
